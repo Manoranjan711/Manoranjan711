@@ -26,4 +26,4 @@ I am a motivated AI & Data Science student with strong programming fundamentals 
 
 ### Connect With Me
 - GitHub: https://github.com/yourusername
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/mano-ranjan-s-b-505a57349 

@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋 I'm Mano Ranjan
 
-<!--
-**Manoranjan711/Manoranjan711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Software Developer | Python | Problem Solving  
+📍 India  
 
-Here are some ideas to get you started:
+### About Me
+I am a motivated AI & Data Science student with strong programming fundamentals and hands-on experience in building practical projects. I focus on writing clean, efficient code and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Python
+- Data Structures & Algorithms
+- Machine Learning (Fundamentals)
+- Data Analysis
+- Git & GitHub
+
+### Projects
+- Real-world Python applications
+- AI & Data Science mini projects
+- Algorithmic problem-solving implementations
+
+### What I’m Looking For
+- Software Development Internship
+- AI / Data Science Internship
+- Opportunities to work on impactful projects
+
+### Connect With Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: (add your link)
